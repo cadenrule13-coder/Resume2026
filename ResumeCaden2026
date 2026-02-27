@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Resume</title>
+</head>
+
+<body>
+    <div id="resume">
+        <img src="MyProfile.JPG" alt="Caden Rule">
+        <h1>Caden Rule</h1>
+        <p>Cell: <a href=#>1234567890</a>
+        <p>Web: <a href=#>Cadenrule14.github</a>
+        <p>Email: <a href=#>crule@iu.edu</a>
+        <p id="objective">I am a Media student balancing work and education, while trying to expand a library of personal
+work to enrich my career in filmmaking. I am self-reliant, adaptable, and laid-back while also retaining professionalism when necessary. I find it enjoyable exploring unorthodox ideas, which allows me to be humble, giving sympathy to those who are polar to myself.
+        <dl>
+            <dt>Education
+            <dd>
+                <h2>Indiana University East</h2>
+                <p><strong>Major:</strong> Digital Media and Storytelling<br />
+                    <strong>Minor:</strong> None
+                </p>
+        </dl>
+        <dl>
+            <dt>Skills
+            <dd>
+                <h2>Labor Skills</h2>
+                <p>Warehouse and distribution efficiency, component repair, field operations, equipment maintenance, workplace safety, materials management, professional driving
+                <h2>Design skills</h2>
+                <p>Microsoft productivity software (Word), Adobe Creative Cloud (Premiere Pro, Lightroom, Photoshop, Audition), Windows
+        </dl>
+        <dl>
+            <dt>Experience
+            <dd>
+                <h2>VeoRide Technician<span>Lafayette 2023 – present</span></h2>
+                <ul>
+                    <li>Manage the electric bicycle fleet on-campus
+                    <li>Drive a company vehicle efficiently and safely
+                </ul>
+                <h2>Visiting Angels<span>caregiver, Lafayette 2021 – 2023</span></h2>
+                <ul>
+                    <li>Home care for the elderly and disabled
+                </ul>
+                <h2>YMCA Of Greater Indianapolis<span>Lifeguard 2020 – 2023</span></h2>
+                <ul>
+                    <li>Ensured the safety of YMCA property and pool tenants
+                    <li>Licensed to initiate AED and CPR
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>Hobbies
+            <dd>Screenwriting, sport shooting, videography, cinematography, kayaking, swimming
+        </dl>
+        <dl>
+            <dt>References
+            <dd>Available on request
+        </dl>
+    </div>
+</body>
+
+</html>
